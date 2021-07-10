@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/shayananique
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shayananique.com
+  * I am shayananique (https://keybase.io/shayananique) on keybase.
+  * I have a public key with fingerprint 5B73 25CD 75DE 0DB5 B011  2F06 DB87 7A21 E1DF 6F70
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018eaf0be40cafd1366aee21245b315347664379e3f096a23da67b8886d427f2fa0a",
+      "fingerprint": "5b7325cd75de0db5b0112f06db877a21e1df6f70",
+      "host": "keybase.io",
+      "key_id": "db877a21e1df6f70",
+      "kid": "01018eaf0be40cafd1366aee21245b315347664379e3f096a23da67b8886d427f2fa0a",
+      "uid": "874d22c2c955b55ad8fe9b4685ab7919",
+      "username": "shayananique"
+    },
+    "merkle_root": {
+      "ctime": 1623170245,
+      "hash_meta": "1d8f0f1a03b4df89757558c957b6b1ecc073faf14ed30710378363496758bff5",
+      "seqno": 20140759
+    },
+    "revoke": {
+      "sig_ids": [
+        "a4196da60378851324cf90f77928a53437e8807ebf71319f16d085353b7293510f"
+      ]
+    },
+    "service": {
+      "hostname": "shayananique.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1623170266,
+  "expire_in": 157680000,
+  "prev": "dc2963fa45b924372078ca9699f047d6e9010a1a1c799930cd4a63973de59e49",
+  "seqno": 111,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPdAnicrVNrbBVFFL4tYKWFFgISsUVyl/DQNDCzj5mdKyhoAG21PORhqXCZ3Z1t
+l/beva8W2gstIEKBiIKEVKDStFACIoSXCAmhQAkq1UIQaLC1PKzVtigSglBezjYa
+E8NP589kZr7zne9850xt726u+Jhlx0esf9qXWhNz5sTifNfcY5svRwXNNgoFT1TI
+ZV0byzNYOOLNtQzBIwAIoMqoCTQmA52aBpQQooyJUJQVTYKKJGOEZAkTJpmAICpK
+BkVYU1UVGbKITdGkgAqpgmn5s1koELL8EU6raFgSFd3AisGAoSkagFA0ATI0FWMq
+QgYNE5kY8MAcO+xEcHEaDbORls3v+MHbJe8J+P9Zd34XnYplQxR1USeKoikKNVST
+EU1GqkI1TCBxgGEW8lMf4+hwDi2kfuq3gvlMWJQq+FgoN495Q7YdcQzWI5YDg0iU
+IAZcDy+ShnO8PhahPBpycmBCCiRNNkyVYAUrisozYw1pkOk6wJJJTSgzQwIYAgmr
+EpJkgrCiaqapcC1hFvTbgkcEUAZYIVxCiBXYuczJHrayuXdhwZMlUBkSxMt2KFQF
+SqKsmwSYGBNRpdwhCTNVBZhpJoYSJCZEBlAVSZE0LBJJgcAUZi9ysoUKLL2L3GnW
+E0wYqds+LisQsiO2bufx15xIJBD2OOZECgMOfD7TvH8TeTXLb/Bx4REFLBS2bD83
+iyP/4xtCqQJbELBCzGs5CAUjFfDl5GEFznDoIkHcKt5wIvJiRIBVnRJEiAlkbCBG
++JRQSKGOCSES0A2ZIolgyWAKYTL510gIIRdKs52yrGw/jeSHeGNPHH+3uysm3vVU
+j1jnI7nie/b553ulb0l6PG11TV5cU+9Ds+56VjZvHO2Zd1/+9EYwfvBHLz/+dlJc
+Ys3izvfqlyypj+2fcGDe2tNJrmjlqf2HyrYsT6vwjetfUjUgacr1jOpZ4z1Th2zd
+2X3Di9deW9fSw13y+/CDAz8PZg8ojrZO3N6SMv3ix3t/PFh6qe/jihYZpT2b0rSs
+teLWniNS1ktH3++27erPl2OKjbKi6o19nlv9UF6xaqvmyr/XdjN668MZTSVjO7L6
+Ni5/odV7rflUbP2om2ibUN4Pzunsh+prR0QSTjYfoQeG7dj+1tyExqmlEy8Nr04d
+7C6+3/qTR2tu+CKrb1mf16d07Op1L2ZhXsOmNyedmzm9xr07uVfm4QF3ip6ZGtjd
+frchZf3tzuRVJ5K2lL5SWdnRmH774sMxteXt50OPOovSM6//kZfakThj3eG9yUuT
+q4KuzIy4zWlD246e2ac3/LnaL88YV1863zdmdtW+NWPHtwyLLiyofmfYd0v2Pe+u
+Gh7JOv3D8dxB9YMqV6YPDawLdDxCMd9/du5B7c7J03qfL2gSlrp/lctWvPHJwyHu
+wguxuxbEmqv2uzLad4xgp14tz9dThm4K7rlxzW6f3I4Gmxd6Diz5xghF6zKP9XCv
+bIvb/IFv7W9vo4zG8lHbzhZpnXdO1m0qZlu7JV5ZMHrCnKRgS1phRdrthLo9M7+q
+W//LyQ33r65p2z7m6y+NabMeJPrOemOvBE//BQLRBfQ=
+=sEzt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shayananique
+
+==================================================================
