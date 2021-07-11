@@ -1,0 +1,39 @@
+#!/bin/sh
+
+#
+# Lists files in the code directory that isn't in use and may be deleted
+#
+
+option=$1
+
+if [ -z "$option" ] || ([ $option != "--delete" ] && [ $option != "--preview" ] ); then
+  echo "Lists files in the /code and /images folders that are not referenced by any posts, assets, or pages."
+  echo "--preview | lists unused files"
+  echo "--delete  | deletes unused files"
+  exit 0
+fi
+
+directories=('code' 'images')
+
+delete_unused() {
+    echo "Searching $1"
+    for path in $1/**; do
+        if [ -d "$path" ]; then
+          delete_unused $path
+        elif [ -f "$path" ]; then
+            escaped="\b${path//\./\.}\b"
+            if [[ $(grep -ri "$escaped" assets _posts pages demos | head -c1 | wc -c) -eq 0 ]]; then
+                if [ $option = "--delete" ]; then
+                    rm "$path"
+                    echo "  $path DELETED"
+                else
+                    echo "  $path NOT USED"
+                fi
+            fi
+        fi
+    done
+}
+
+for dir in "${directories[@]}"; do
+    delete_unused $dir
+done
