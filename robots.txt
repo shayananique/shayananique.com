@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://shayananique.com/sitemap.xml
