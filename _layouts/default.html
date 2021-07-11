@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <header class="header" class="inner">{% include_cached header.html %}</header>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+      {% include_cached footer.html %}
+    </main>
+  </body>
+</html>
