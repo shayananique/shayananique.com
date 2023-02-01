@@ -61,3 +61,5 @@ pygmentscodefencesguesssyntax = true
   name = "Contact me"
   weight = 2
   url = "contact/"
+
+googleAnalytics = 'G-Y9ESF0K5GG'
