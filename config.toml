@@ -10,20 +10,15 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-#disqusShortname = "yourdiscussshortname"
-
 [params]
   author = "Shayan Anique"
   info = "Cyber Security Researcher"
-  description = ""
-  keywords = ""
-  #avatarurl = "images/avatar.jpg"
-  gravatar = "shayan@shayananique.com"
+  description = "Making and Breaking Things."
+  keywords = "technologist,cybersec,infosec,coder"
+  avatarurl = "images/avatar.jpg"
 
   #favicon_32 = "/img/favicon-32x32.png"
   #favicon_16 = "/img/favicon-16x16.png"
-
-  #since = 2019
 
   #enableTwemoji = true
 
