@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   info = "Cyber Security Researcher"
   description = "Making and Breaking Things."
   keywords = "technologist,cybersec,infosec,coder"
-  avatarurl = "images/avatar.jpg"
+  #avatarurl = "images/avatar.jpg"
 
   #favicon_32 = "/img/favicon-32x32.png"
   #favicon_16 = "/img/favicon-16x16.png"
