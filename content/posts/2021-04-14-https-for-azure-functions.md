@@ -9,7 +9,7 @@ _UPDATE: there might be an easier way now. [App Service Managed Certificates now
 
 My friends, in an ideal world, it would be dead simple to set up a certificate for an Azure App Service. For example, GitHub Pages gets this right.
 
-![Screen shot showing a checkbox for enforcing HTTPS](https://raw.githubusercontent.com/shayananique/shayananique.com/main/assets/images/git_https_customdomain.png "Could it be any easier?")
+![Screen shot showing a checkbox for enforcing HTTPS](https://gitlab.com/shayananique/shayananique.com/-/raw/main/assets/images/git_https_customdomain.png "Could it be any easier?")
 
 Look at that. A thing of beauty. Just click that checkbox and now your site is being served from HTTPS using a free certificate from LetsEncrypt. From an _apex domain_ no less!
 
