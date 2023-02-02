@@ -1,65 +1,68 @@
 baseurl = "https://shayananique.com"
-title = "Shayan Anique"
-theme = "hugo-coder"
-languagecode = "en-us"
 defaultcontentlanguage = "en-us"
+languagecode = "en-us"
+theme = "hugo-coder"
+title = "Shayan Anique"
 
 paginate = 20
 
-pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+pygmentsstyle = "bw"
 
 [params]
-  author = "Shayan Anique"
-  info = "Cyber Security Researcher"
-  description = "Making and Breaking Things."
-  keywords = "technologist,cybersec,infosec,coder"
-  #avatarurl = "images/avatar.jpg"
+author = "Shayan Anique"
+description = "Making and Breaking Things."
+info = "Cyber Security Researcher"
+keywords = "technologist,cybersec,infosec,coder"
 
-  favicon_32 = "/images/favicon-32x32.png"
-  #favicon_16 = "/img/favicon-16x16.png"
 
-  #enableTwemoji = true
+[params.googleTagManager]
+id = "G-Y9ESF0K5GG"
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+colorScheme = "auto"
+#favicon_32 = "/images/favicon-32x32.png"
+hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
 
-# Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/shayananique/"
+icon = "fa fa-github fa-2x"
+name = "Github"
+url = "https://github.com/shayananique/"
+weight = 1
+
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/shayananique/"
+icon = "fa fa-gitlab fa-2x"
+name = "Gitlab"
+url = "https://gitlab.com/shayananique/"
+weight = 2
+
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/shayan_anique/"
+icon = "fa fa-twitter fa-2x"
+name = "Twitter"
+url = "https://twitter.com/shayan_anique/"
+weight = 3
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-2x fa-rss"
+weight = 6
+url = "https://shayananique.com/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+name = "Blog"
+url = "posts/"
+weight = 1
 [[menu.main]]
-  name = "Contact me"
-  weight = 2
-  url = "contact/"
-
-googleAnalytics = 'G-Y9ESF0K5GG'
+name = "Contact me"
+url = "contact/"
+weight = 2
