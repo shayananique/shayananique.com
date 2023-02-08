@@ -5,10 +5,10 @@ languagecode = "en-us"
 defaultcontentlanguage = "en-us"
 
 paginate = 20
-
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableRobotsTXT = true
 
 [params]
   author = "Shayan Anique"
