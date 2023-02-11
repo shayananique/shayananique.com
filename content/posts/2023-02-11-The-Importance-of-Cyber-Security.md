@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Cyber Security: Protecting Your Data in the Digital Age"
+title: "For Beginners: The Importance of Cyber Security: Protecting Your Data in the Digital Age"
 date: 2023-02-11T01:34:00+00:00
 description: "The Importance Of Cyber Security in Modern Ages."
 tags: [security]
