@@ -11,8 +11,8 @@ pygmentscodefencesguesssyntax = true
 enableRobotsTXT = true
 
 [params]
-  author = "Shayan Anique"
-  info = "Cyber Security Researcher"
+  author = "Shayan Anique Akhtar"
+  info = "Technologist, Cyber Security Researcher, Making and Breaking Things."
   description = "Making and Breaking Things."
   keywords = "technologist,cybersec,infosec,coder"
   #avatarurl = "images/avatar.jpg"
@@ -23,7 +23,7 @@ enableRobotsTXT = true
   #enableTwemoji = true
 
   colorScheme = "dark"
-  hidecolorschemetoggle = true
+  hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
@@ -69,3 +69,7 @@ enableRobotsTXT = true
   name = "Contact me"
   weight = 2
   url = "contact/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
