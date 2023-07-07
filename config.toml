@@ -1,8 +1,10 @@
 baseurl = "https://shayananique.com"
-title = "Breaking and Making Things"
+title = "Shayan Anique Akhtar"
 theme = "hugo-coder"
 languagecode = "en-us"
 defaultcontentlanguage = "en-us"
+
+googleAnalytics = "G-8641XM5V8K"
 
 paginate = 20
 pygmentsstyle = "bw"
