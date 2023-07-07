@@ -1,5 +1,5 @@
 baseurl = "https://shayananique.com"
-title = "Shayan Anique"
+title = "Breaking and Making Things"
 theme = "hugo-coder"
 languagecode = "en-us"
 defaultcontentlanguage = "en-us"
@@ -12,9 +12,9 @@ enableRobotsTXT = true
 
 [params]
   author = "Shayan Anique Akhtar"
-  info = "Cyber Security Researcher, Magician, Making and Breaking Things."
+  info = "Cyber Security Researcher, Magician, Breaking and Making Things."
   description = "Making and Breaking Things."
-  keywords = "technologist,cybersec,infosec,coder"
+  keywords = "technologist,cybersec,infosec,programmer"
   #avatarurl = "images/avatar.jpg"
 
   #favicon_32 = "/images/favicon-32x32.png"
@@ -41,11 +41,11 @@ enableRobotsTXT = true
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/shayananique/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/shayananique/"
+#[[params.social]]
+#  name = "Gitlab"
+#  icon = "fa fa-gitlab fa-2x"
+#  weight = 2
+#  url = "https://gitlab.com/shayananique/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
@@ -69,7 +69,7 @@ enableRobotsTXT = true
   name = "Contact me"
   weight = 2
   url = "contact/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+#[[menu.main]]
+#  name = "About"
+#  weight = 2
+#  url = "about/"
