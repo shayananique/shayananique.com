@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
   #enableTwemoji = true
 
-  colorScheme = "dark"
+  colorScheme = "list"
   hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
