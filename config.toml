@@ -68,7 +68,7 @@ enableRobotsTXT = true
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "Contact me"
+  name = "Contact"
   weight = 2
   url = "contact/"
 #[[menu.main]]
