@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
   #enableTwemoji = true
 
-  colorScheme = "light"
+  colorScheme = "auto"
   hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
@@ -54,19 +54,19 @@ enableRobotsTXT = true
   weight = 3
   url = "https://twitter.com/shayan_anique/"
 
-[[params.social]]
-  name = "RSS"
-  icon = "fa fa-2x fa-rss"
-  weight = 6
-  url = "https://shayananique.com/index.xml"
-  rel = "alternate"
-  type = "application/rss+xml"
+#[[params.social]]
+#  name = "RSS"
+#  icon = "fa fa-2x fa-rss"
+#  weight = 6
+#  url = "https://shayananique.com/index.xml"
+#  rel = "alternate"
+#  type = "application/rss+xml"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
 [[menu.main]]
   name = "Contact"
   weight = 2
