@@ -75,3 +75,8 @@ enableRobotsTXT = true
 #  name = "About"
 #  weight = 2
 #  url = "about/"
+
+[[menu.main]]
+  name = "Press"
+  weight = 2
+  url = "press/"
