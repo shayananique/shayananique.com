@@ -7,6 +7,6 @@ slug = "press"
 
 *Hint: 0X-04-19XX*
 
-*We disregard one sided justice and We don't use family as weakness and We don't hire targeted offenders to molest others.*
+*We disregard one sided justice and We don't use family as weakness and We don't hire targeted offenders to molest others especially women.*
   
 **Welcome to the West Circle**
