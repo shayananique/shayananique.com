@@ -19,8 +19,7 @@ enableRobotsTXT = true
   keywords = "technologist,cybersec,infosec,programmer"
   #avatarurl = "images/avatar.jpg"
 
-  #favicon_32 = "/images/favicon-32x32.png"
-  #favicon_16 = "/img/favicon-16x16.png"
+  gravatar = "shayan@shayananique.com"
 
   #enableTwemoji = true
 

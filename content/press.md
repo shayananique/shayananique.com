@@ -3,6 +3,5 @@ title = "Press"
 slug = "press"
 +++
 
-*Updates coming soon. Keep following this blog.*
 
-**Welcome to the West Circle**
+**Freedom of mind is freedom of soul.**
