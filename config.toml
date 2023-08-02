@@ -70,7 +70,7 @@ enableRobotsTXT = true
   name = "Contact"
   weight = 2
   url = "contact/"
-#[[menu.main]]
-#  name = "About"
-#  weight = 2
-#  url = "about/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
