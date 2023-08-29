@@ -74,10 +74,10 @@ enableRobotsTXT = true
   name = "About"
   weight = 2
   url = "about/"
-[[menu.main]]
-  name = "Press"
-  weight = 2
-  url = "press/"
+#[[menu.main]]
+#  name = "Press"
+#  weight = 2
+#  url = "press/"
 [[menu.main]]
   name = "Privacy"
   weight = 2
