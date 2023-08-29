@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [params]
   author = "Shayan Anique Akhtar"
-  info = "Cyber Security Researcher, Magician, Breaking and Making Things."
+  info = "Cyber Security Researcher, Teacher, Breaking and Making Things."
   description = "Making and Breaking Things."
   keywords = "technologist,cybersec,infosec,programmer"
   #avatarurl = "images/avatar.jpg"
@@ -41,12 +41,12 @@ enableRobotsTXT = true
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/shayananique/"
-#[[params.social]]
-#  name = "Gitlab"
-#  icon = "fa fa-gitlab fa-2x"
-#  weight = 2
-#  url = "https://gitlab.com/shayananique/"
+ url = "https://github.com/shayananique/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/shayananique/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
@@ -74,3 +74,11 @@ enableRobotsTXT = true
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Press"
+  weight = 2
+  url = "press/"
+[[menu.main]]
+  name = "Privacy"
+  weight = 2
+  url = "privacy/"
